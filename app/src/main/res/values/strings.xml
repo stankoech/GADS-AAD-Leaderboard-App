@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GADS 2020 Leaderboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="top_skill_iq">Top Skill IQ</string>
+    <string name="home_all">Home</string>
+    <string name="positive_button_txt"><Buttun>Yes</Buttun></string>
+
+
+    <string name="policy">Policy</string>
+    <string name="top_learners">Top Learners</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
